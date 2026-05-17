@@ -1,0 +1,8 @@
+{
+  "name": "بن البراء | Al-Baraa Coffee",
+  "description": "متجر إلكتروني فاخر لبن البراء، نقدم أجود أنواع القهوة المختصة والمحمصة بعناية في شبرا الخيمة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
